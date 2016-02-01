@@ -892,6 +892,9 @@ header {
   .ba-menu li a {
     color: #fcdb00;
   }
+  .ba-menu li a:hover {
+    text-shadow: none;
+  }
   body {
     transition: -webkit-transform 0.3s ease-in;
     transition: transform 0.3s ease-in;
